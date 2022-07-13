@@ -113,7 +113,8 @@ section{
     color: #555;
 }
 .reg-form form input,
-.reg-form form select{
+.reg-form form select,
+.reg-form form textarea{
     width: 100%;
     border: 1px solid #ccc;
     background: #fafafa;
